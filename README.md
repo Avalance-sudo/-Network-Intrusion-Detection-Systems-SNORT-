@@ -5,12 +5,14 @@ This project is a practical walkthrough of setting up and using Snort, an open-s
 
 # Tools used 
 
-Snort	Intrusion detection engine
-Nmap	Network scanning and testing
-Kali Linux	Attack simulation
-Ubuntu	Snort host / Detection system
-ifconfig	Interface discovery
-gedit	Config and rule editing
+-Snort	Intrusion detection engine
+
+-Nmap	Network scanning and testing
+
+-Kali Linux	Attack simulation
+-Ubuntu	Snort host / Detection system
+-ifconfig	Interface discovery
+-gedit	Config and rule editing
 
 # What is Snort?
 Snort is an opern sourece network intrusion detection and prevention systems that analyzes network traffic to identify malicious activites. 
