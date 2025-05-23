@@ -10,8 +10,11 @@ This project is a practical walkthrough of setting up and using Snort, an open-s
 -Nmap	Network scanning and testing
 
 -Kali Linux	Attack simulation
+
 -Ubuntu	Snort host / Detection system
+
 -ifconfig	Interface discovery
+
 -gedit	Config and rule editing
 
 # What is Snort?
